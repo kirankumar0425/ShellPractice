@@ -2,6 +2,7 @@
 
 echo "Enter your pin number"
 
-read PIN
+read PIN #here PIN is avariable
 
-each "Your number is"$PIN"
+each "Your number is: "$PIN"
+
