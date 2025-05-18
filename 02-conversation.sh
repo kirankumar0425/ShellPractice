@@ -1,4 +1,4 @@
-! /bin/bash
+#! /bin/bash
 
 echo "Trump:: Hey musk, How are you?"
 echo "Mush:: Hello Trump, I am fine. How are you doing"
